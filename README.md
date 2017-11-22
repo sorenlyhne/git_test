@@ -1,0 +1,1 @@
+This is Søren Lyhne's first git project!
